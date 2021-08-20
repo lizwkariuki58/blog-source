@@ -2,3 +2,9 @@
 	path = public
 	url = https://github.com/lizwkariuki58/lizwkariuki58.github.io.git
 	branch = master
+[submodule "theme"]
+	path = theme
+	url = https://github.com/lizwkariuki58/uBlogger
+[submodule "themes/ublogger"]
+	path = themes/ublogger
+	url = https://github.com/lizwkariuki58/uBlogger
