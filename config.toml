@@ -120,7 +120,7 @@ enableEmoji = true
         [languages.en.params.home.posts]
           enable = true
           # special amount of posts in each home posts page
-          paginate = 3
+          paginate = 5
       # Social config in home page
       [languages.en.params.social]
         GitHub = "lizwkariuki58"
