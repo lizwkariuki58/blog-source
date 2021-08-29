@@ -111,7 +111,7 @@ enableEmoji = true
           # title shown in home page (HTML format is supported)
           title = "Liz Kariuki"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "Welcome to my blog!"
+          subtitle = "Progress, not perfection."
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
