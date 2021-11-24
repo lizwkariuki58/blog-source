@@ -1,4 +1,4 @@
-baseURL = "https://lizwkariuki58.github.io/blog/"
+baseURL = "https://lizwkariuki58.github.io/blog"
 languageCode = "en-US"
 title = "Liz Kariuki"
 theme="hugo-bearblog"
