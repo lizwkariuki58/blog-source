@@ -47,12 +47,6 @@ enableRobotsTXT = true
     
 [menu]
 [[menu.main]]
-  identifier = 'Home'
-  name = 'Home'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/'
-  weight = -110
-[[menu.main]]
   identifier = 'Posts'
   name = 'Posts'
   pre = "<i class='fa fa-heart'></i>"
