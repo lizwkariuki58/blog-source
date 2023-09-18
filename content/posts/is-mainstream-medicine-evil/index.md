@@ -18,11 +18,11 @@ This summarises the 10th chapter of _Bad Science_ by _Ben Goldacre_: _Is Mainstr
 2. Animal trials - This is used to confirm that the molecule you have in mind does what you think it does and that it doesn’t kill the animals.
 3. Phase I human trials - Done on healthy young people to see the side effects and understand how it is excreted from the body.
 4. Phase II human trials - Done on people with the illness you intend to treat. The aim of this stage is to see if it does treat the illness and work out the proper dosage.
-5. Phase III human trials - A randomized, blinded trial on thousands of patients compared against a placebo or other comparable treatment.  \
+5. Phase III human trials - A randomized, blinded trial on thousands of patients compared against a placebo or other comparable treatment.  
 
 If your Phase III trial is successful, you need to conduct several similar trials and then you can apply for a license for your drug. After the drug goes to market, you should continue conducting trials and hopefully, other entities that aren’t related to the pharmaceutical company do replication studies and keep an eye out for side effects reported by patients.
 
-However, drug trials are expensive and 90% of clinical drug trials are paid for by the pharmaceutical industry meaning they exert a lot of influence on what gets studied and published. As a result, diseases that are considered ‘unprofitable’ to treat are neglected. These include rare diseases or those that are only prevalent in developing countries e.g. sleeping sickness (trypanosomiasis). Other conditions/treatments are not studied because they can’t be patented. For example, magnesium sulphate has been used for more since 1906 for the treatment of eclampsia(a leading cause of maternal death); but research into it wasn’t done until 2002 when the WHO funded a study. The Global Forum for Health Research estimates that only 10% of the world’s health burden receives 90% of total biomedical research funding.
+However, drug trials are expensive and 90% of clinical drug trials are paid for by the pharmaceutical industry meaning they exert a lot of influence on what gets studied and published. As a result, diseases that are considered ‘unprofitable’ to treat are neglected. These include rare diseases or those that are only prevalent in developing countries e.g. sleeping sickness (trypanosomiasis). Other conditions/treatments are not studied because they can’t be patented. For example, magnesium sulphate has been used since 1906 for the treatment of eclampsia(a leading cause of maternal death); but research into it wasn’t done until 2002 when the WHO funded a study. The Global Forum for Health Research estimates that only 10% of the world’s health burden receives 90% of total biomedical research funding.
 
 Drug trials by pharmaceutical are more likely to produce a positive outcome for their own drug. Since their core audience is made up of doctors, they need to come up with smarter tricks than quacks that market to the general population like homoeopaths.
 
@@ -48,7 +48,7 @@ iv. Don’t ask about side effects.
 
 v. Measure surrogate outcomes.
 
-* Instead of measuring real-life outcomes like pain or death, measure a ‘surrogate outcome’ for your drug to attain like cholesterol reduction. If your drug is supposed to reduce cholesterol levels and therefore prevent cardiac deaths, don’t measure the rate of deaths but cholesterol and then imply that this leads to a reduction of deaths.
+* Instead of measuring real-life outcomes like pain or death, measure a ‘surrogate outcome’ for your drug to attain like cholesterol reduction. If your drug is supposed to reduce cholesterol levels and therefore prevent cardiac deaths; don’t measure the rate of deaths. Measure cholesterol levels and then imply that their reduction leads to a reduction of deaths.
 
 vi. Draw attention away from negative results.
 
@@ -81,7 +81,7 @@ Systematic reviews of the literature have found that studies funded by pharmaceu
 
 Positive results are much more likely to be published than negative ones. Here is a statistical exercise to prove this.
 
-If there are lots of trials in a field, you would expect the results to cluster around the true answer. The bigger studies with better methods would be close to the truth while the smaller ones would be all over the place since they’d be thrown off by outliers. These statistical outliers should be both negative and positive. This can be plotted through a funnel plot as demonstrated below.
+If there are lots of trials in a field, you would expect the results to cluster around the true answer. The bigger studies with better methods would be close to the truth while the smaller ones would be all over the place since they’d be thrown off by outliers. These statistical outliers should be both negative and positive. This can be shown through a funnel plot as demonstrated below.
 
 If there is no publication bias, there should be an inverted funnel where the big accurate trials cluster around each other at the top of the funnel and the small inaccurate trials gradually spread out to BOTH the right and left as they become increasingly inaccurate (both positively and negatively).
 
@@ -112,5 +112,5 @@ We have several accounts of authors and researchers who have been bullied or pre
 
 The author has a simple proposal to solve almost all of these problems. The intervention is a clinical trials register, public, open and properly enforced.
 
-If you wish to do a study, you would be required to pre-publish its protocol i.e. what you are going to do in your trial, what you’re going to measure in how many people and for how long. This would take care of the ‘moving the goalposts’ tricks pulled by pharmaceutical companies AFTER they have the results of the study. If you registered a study and conducted it, but did not publish the results, that would stick out like a sore thumb. Everyone would assume you had something to hide.
+If you wish to do a study, you would be required to pre-publish its protocol i.e. what you are going to do in your trial, what you’re going to measure in how many people and for how long. This would take care of the ‘moving the goalposts’ tricks pulled by pharmaceutical companies AFTER they have the results of the study. If you registered a study and conducted it, but did not publish the results, that would stick out like a sore thumb. Everyone would (rightfully) assume you had something to hide.
 
