@@ -2,6 +2,7 @@
 title: "Is Mainstream Medicine Evil"
 date: 2023-09-18T14:59:37+03:00
 draft: false
+
 ---
 
 # Is Mainstream Medicine Evil?

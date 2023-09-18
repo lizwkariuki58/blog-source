@@ -42,8 +42,8 @@ enableRobotsTXT = true
             hardWraps = true
     # [markup.tableOfContents]
     # endLevel = 3
-    # ordered = false
-    # startLevel = 2
+     ordered = false
+     startLevel = 1
     
 [menu]
 [[menu.main]]
