@@ -82,12 +82,15 @@ Positive results are much more likely to be published than negative ones. Here i
 
 If there are lots of trials in a field, you would expect the results to cluster around the true answer. The bigger studies with better methods would be close to the truth while the smaller ones would be all over the place since they’d be thrown off by outliers. These statistical outliers should be both negative and positive. This can be plotted through a funnel plot as demonstrated below.
 
-1. ![Publication Bias Demonstration](/home/liz/Documents/projects/blog-source/content/posts/is-mainstream-medicine-evil/Funnel-plot-example-difference.webp) 
-
 If there is no publication bias, there should be an inverted funnel where the big accurate trials cluster around each other at the top of the funnel and the small inaccurate trials gradually spread out to BOTH the right and left as they become increasingly inaccurate (both positively and negatively).
+
+ ![Publication Bias Demonstration](content/posts/is-mainstream-medicine-evil/funnel-plot-symmetrical.webp) 
 
 However, if there is a publication bias, the results will be skewed as the smaller negative studies are missing but the smaller (spuriously) positive studies are published. This has been demonstrated in many medical fields.
 
+ ![Publication Bias Demonstration](content/posts/is-mainstream-medicine-evil/funnel-plot-asymmetrical.webp) 
+
+[~image source~](https://toptipbio.com/funnel-plot/)
 
 ### Duplicate Publication
 
